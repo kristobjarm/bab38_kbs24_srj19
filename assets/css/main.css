@@ -150,6 +150,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1.35em;
 	}
+    
 
 	a {
 		color: #d52349;
@@ -1542,6 +1543,20 @@ input, select, textarea {
 			display: block;
 			/*font-style: italic;*/
 			margin: 0.5em 0 0 0;
+			padding-bottom: 0.5em;
+		}
+
+        header > p2 {
+			display: block;
+			font-style: italic;
+			margin: 5em 0 0 0;
+			padding-bottom: 0.5em;
+		}
+
+        header > p3 {
+			display: block;
+			font-style: italic;
+			margin: 0.3em 0 0 0;
 			padding-bottom: 0.5em;
 		}
 
